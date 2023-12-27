@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior student from [the College of Future Technology](https://qiushi.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/),majoring in computer science and technology.
+I'm a senior student from [the College of Future Technology](https://qiushi.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/), majoring in computer science and technology.
 
 I am very fortunate to be advised by [Prof. PanGang](https://gpantju.github.io/index/), Tianjin University.
 
