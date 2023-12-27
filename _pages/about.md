@@ -14,5 +14,5 @@ I am very fortunate to be advised by [Prof. PanGang](https://gpantju.github.io/i
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](3020001089@tju.edu.cn) / [Github](https://github.com/TadzioGuo) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:3020001089@tju.edu.cn) / [Github](https://github.com/TadzioGuo) / [Wechat](../images/wechat.jpg) 
 
