@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. computer science and technology in Tianjin University, 2024
+* B.S. in computer science and technology in Tianjin University, 2024
 
 Project experience
 ======
